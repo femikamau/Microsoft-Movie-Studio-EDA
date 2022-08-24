@@ -2,15 +2,12 @@
 
 > This project is a part of the [Data Science (DSF-FT) Course](https://moringaschool.com/courses/data-science-course/) at [Moringa School](https://moringaschool.com/). The full project description can be found [here](https://github.com/learn-co-curriculum/dsc-phase-1-project-v2-4).
 
-
 ---
 ---
-
 
 ## <u>Overview</u>
 
 * A one-paragraph overview of the project, including the business problem, data, methods, results and recommendations.
-
 
 ---
 
@@ -23,7 +20,6 @@ Questions to consider:
 * What are the business's pain points related to this project?
 * How did you pick the data analysis question(s) that you did?
 * Why are these questions important from a business perspective?
-
 
 ---
 
@@ -38,7 +34,6 @@ Questions to consider:
 * What is the target variable?
 * What are the properties of the variables you intend to use?
 
-
 ---
 
 ### 3. <u>Methods</u>
@@ -50,7 +45,6 @@ Questions to consider:
 * How did you prepare, analyze or model the data?
 * Why is this approach appropriate given the data and the business problem?
 
-
 ---
 
 ### 4. <u>Results</u>
@@ -61,7 +55,6 @@ Questions to consider:
 
 * How do you interpret the results?
 * How confident are you that your results would generalize beyond the data you have?
-
 
 ---
 
@@ -75,10 +68,8 @@ Questions to consider:
 * What are some reasons why your analysis might not fully solve the business problem?
 * What else could you do in the future to improve this project?
 
-
 ---
 ---
-
 
 ## <u>Repository Structure</u>
 
@@ -95,16 +86,13 @@ Questions to consider:
 
 ```
 
-
 ---
-
 
 ## <u>For More Information</u>
 
 * Please review the full analysis in the [Jupyter Notebook](./index.ipynb) or the [Presentation](./presentation.pdf). (Update presentation Link*)
 
 * For any additional questions, please contact **[Femi Kamau](mailto:femikkamau@gmail.com)**
-
 
 ---
 ---
