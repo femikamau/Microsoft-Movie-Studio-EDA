@@ -1,4 +1,4 @@
-![Microsoft-Studios](images\microsoft-studios-banner.png)
+![Microsoft-Studios](images/microsoft-studios-banner.png)
 
 # **Microsoft Movie Studio EDA** ([Femi Kamau](https://github.com/ctrl-Karugu))
 
