@@ -1,6 +1,6 @@
 # **Microsoft Movie Studio EDA** ([Femi Kamau](https://github.com/ctrl-Karugu))
 
-> This project is a part of the [Data Science (DSF-FT) Course](https://moringaschool.com/courses/data-science-course/) at [Moringa School](https://moringaschool.com/). The project description can be found [here](https://github.com/learn-co-curriculum/dsc-phase-1-project-v2-4).
+> This project is a part of the [Data Science (DSF-FT) Course](https://moringaschool.com/courses/data-science-course/) at [Moringa School](https://moringaschool.com/). The full project description can be found [here](https://github.com/learn-co-curriculum/dsc-phase-1-project-v2-4).
 
 
 ---
@@ -101,12 +101,12 @@ Questions to consider:
 
 ## <u>For More Information</u>
 
-* Please review the full analysis in the [Jupyter Notebook](./index.ipynb) or the [Presentation](./presentation.pdf). (Update Links)
+* Please review the full analysis in the [Jupyter Notebook](./index.ipynb) or the [Presentation](./presentation.pdf). (Update presentation Link*)
 
-* For any additional questions, please contact **[Femi Kamau](femikkamau@gmail.com)**
+* For any additional questions, please contact **[Femi Kamau](mailto:femikkamau@gmail.com)**
 
 
 ---
-
+---
 
 >## *“Patience is a key element of success.”* - Bill Gates
