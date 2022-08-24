@@ -1,3 +1,5 @@
+![Microsoft-Studios](images\microsoft-studios-banner.png)
+
 # **Microsoft Movie Studio EDA** ([Femi Kamau](https://github.com/ctrl-Karugu))
 
 > This project is a part of the [Data Science (DSF-FT) Course](https://moringaschool.com/courses/data-science-course/) at [Moringa School](https://moringaschool.com/). The full project description can be found [here](https://github.com/learn-co-curriculum/dsc-phase-1-project-v2-4).
@@ -13,13 +15,27 @@
 
 ### 1. <u>Business Problem</u>
 
-* Summary of the business problem you are trying to solve, and the data questions that you plan to answer in order to solve them.
+* Microsoft has decided to enter the original video content scene by creating a new movie studio. However, they don't know anything about creating movies. In order to solve this problem, the analysis shall be centered around answering the following question:
 
-Questions to consider:
+   > #### What types of films are currently performing the best at the box office?
 
-* What are the business's pain points related to this project?
-* How did you pick the data analysis question(s) that you did?
-* Why are these questions important from a business perspective?
+* According to this [Holywood Reporter](https://www.hollywoodreporter.com/movies/movie-news/what-is-profitable-movie-ever-1269879/) article, we see that the metric used to determine performance of a movie at the box office may vary. Therefore, it is important to clarify that within this analysis, **the metric that shall be used to determine the success of a movie will be the return on investment (ROI)**. ROI is an important performance measure used by businesses to evaluate the profitability of an investment or compare the efficiency of a number of different investments.
+
+* In order to further understand the types of movies that are currently performing the best at the box office, this analysis will look into the impact following features have on the ROI:
+
+  * Genre
+
+  * Runtime (Length)
+
+  * Director(s) & Writer(s)
+
+  * Cast
+
+  * Gross Revenue
+
+  * Rating
+
+  * Production Cost
 
 ---
 
@@ -79,10 +95,13 @@ Questions to consider:
 ├── README.md                            <- The top-level README for reviewers of this project
 ├── index.ipynb                          <- Narrative documentation of analysis in Jupyter Notebook
 └── data                                 <- Datasets used in the analysis
-    ├── tn.movie_budgets.csv.gz
-    ├── rt.movie_info.tsv.gz
-    ├── rt.reviews.tsv.gz
-    └── im.db.zip            
+|    ├── tn.movie_budgets.csv.gz
+|    ├── rt.movie_info.tsv.gz
+|    ├── rt.reviews.tsv.gz
+|    └── im.db.zip
+|
+└── images                               <- Images sourced externally and from the code
+     └── microsoft-studios-banner.png   
 
 ```
 
@@ -90,7 +109,7 @@ Questions to consider:
 
 ## <u>For More Information</u>
 
-* Please review the full analysis in the [Jupyter Notebook](./index.ipynb) or the [Presentation](./presentation.pdf). (Update presentation Link*)
+* Please review the full analysis in the [Jupyter Notebook](./index.ipynb) or the [Presentation](./presentation.pdf). (Update presentation link)
 
 * For any additional questions, please contact **[Femi Kamau](mailto:femikkamau@gmail.com)**
 
