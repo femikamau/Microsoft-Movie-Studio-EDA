@@ -7,13 +7,13 @@
 ---
 ---
 
-## <u>Overview</u>
+## Overview
 
 * A one-paragraph overview of the project, including the business problem, data, methods, results and recommendations.
 
 ---
 
-### 1. <u>Business Problem</u>
+### 1. Business Problem
 
 * Microsoft has decided to enter the original video content scene by creating a new movie studio. However, they don't know anything about creating movies. In order to solve this problem, the analysis shall be centered around answering the following question:
 
@@ -35,11 +35,11 @@
 
   * Rating
 
-  * Production Cost
+  * Production Budget
 
 ---
 
-### 2. <u>Data Understanding</u>
+### 2. Data Understanding
 
 * Describe the data being used for this project.
 
@@ -52,7 +52,7 @@ Questions to consider:
 
 ---
 
-### 3. <u>Methods</u>
+### 3. Methods
 
 * Describe the process for analyzing or modeling the data. For Phase 1, this will be descriptive analysis.
 
@@ -63,7 +63,7 @@ Questions to consider:
 
 ---
 
-### 4. <u>Results</u>
+### 4. Results
 
 * Present your key results. For Phase 1, this will be findings from your descriptive analysis.
 
@@ -74,7 +74,7 @@ Questions to consider:
 
 ---
 
-### 5. <u>Conclusions</u>
+### 5. Conclusions
 
 * Provide your conclusions about the work you've done, including any limitations or next steps.
 
@@ -87,7 +87,7 @@ Questions to consider:
 ---
 ---
 
-## <u>Repository Structure</u>
+## Repository Structure
 
 * The repository is structured as follows:
 
@@ -107,7 +107,7 @@ Questions to consider:
 
 ---
 
-## <u>For More Information</u>
+## For More Information
 
 * Please review the full analysis in the [Jupyter Notebook](./index.ipynb) or the [Presentation](./presentation.pdf). (Update presentation link)
 
