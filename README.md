@@ -165,7 +165,8 @@
 
 ```
 ├── README.md                            <- The top-level README for reviewers of this project
-├── .gitignore                            <- The .gitignore file for the project
+├── .gitignore                           <- The .gitignore file for the project
+├── LICENSE.md                           <- The license for the project
 ├── index.ipynb                          <- Narrative documentation of analysis in Jupyter Notebook
 ├── presentation.pdf                     <- Presentation of analysis in PDF format
 ├── write-up.pdf                         <- Write-up of analysis in PDF format
