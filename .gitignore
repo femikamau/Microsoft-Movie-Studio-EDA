@@ -3,3 +3,6 @@ test.ipynb
 
 # IMDB unzipped database file
 data/im.db
+
+# Notebook Checkpoints
+/.ipynb_checkpoints/index-checkpoint.ipynb
