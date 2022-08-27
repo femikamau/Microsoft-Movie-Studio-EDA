@@ -22,7 +22,7 @@
 
    > #### What types of films are currently performing the best at the box office?
 
-* According to this [Holywood Reporter](https://www.hollywoodreporter.com/movies/movie-news/what-is-profitable-movie-ever-1269879/) article, we see that the metric used to determine performance of a movie at the box office may vary. Therefore, it is important to clarify that within this analysis, **the metric that shall be used to determine the success of a movie will be the return on investment (ROI)**. ROI is an important performance measure used by businesses to evaluate the profitability of an investment or compare the efficiency of a number of different investments.
+* According to this [Holywood Reporter](https://www.hollywoodreporter.com/movies/movie-news/what-is-profitable-movie-ever-1269879/) article, we see that the metric used to determine performance of a movie at the box office may vary. Therefore, it is important to clarify that within this analysis, **the metric that shall be used to determine the success of a movie will be based on the return on investment (RoI) of the highest grossing films**. ROI is an important performance measure used by businesses to evaluate the profitability of an investment or compare the efficiency of a number of different investments.
 
 * In order to further understand the types of movies that are currently performing the best at the box office, this analysis will look into the impact following features have on the ROI:
 
