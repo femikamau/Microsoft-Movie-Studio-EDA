@@ -165,7 +165,10 @@
 
 ```
 ├── README.md                            <- The top-level README for reviewers of this project
+├── .gitignore                            <- The .gitignore file for the project
 ├── index.ipynb                          <- Narrative documentation of analysis in Jupyter Notebook
+├── presentation.pdf                     <- Presentation of analysis in PDF format
+├── write-up.pdf                         <- Write-up of analysis in PDF format
 └── data                                 <- Datasets used in the analysis
 |    ├── tn.movie_budgets.csv.gz
 |    └── im.db.zip
@@ -177,9 +180,19 @@
 
 ---
 
+## Technologies Used
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* SQLite3
+  
+
+---
 ## For More Information
 
-* Please review the full analysis in the [Jupyter Notebook](./index.ipynb) or the [Presentation](./presentation.pdf). (Update presentation link)
+* Please review the full analysis in the [Jupyter Notebook](./index.ipynb) or the [Presentation](/presentation.pdf).
 
 * For any additional questions, please contact **[Femi Kamau](mailto:femikkamau@gmail.com)**
 
